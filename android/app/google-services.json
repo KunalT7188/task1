@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "704719524272",
+    "project_id": "zappkode-6277f",
+    "storage_bucket": "zappkode-6277f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704719524272:android:f65f72806bae2816768675",
+        "android_client_info": {
+          "package_name": "com.example.zappkode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704719524272-lfogcaho169sqrbi70ivotuioat55019.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtfxXr8pk-n7ocDfB0NCwp2B7P6LzEuyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704719524272-lfogcaho169sqrbi70ivotuioat55019.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
